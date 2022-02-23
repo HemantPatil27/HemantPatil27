@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning AngularJS
 - 💞️ I’m looking to collaborate on WebDevelopment
-- 📫 How to reach me on Github
+- 📫 How to reach me on Github HemantPatil27
 
 <!---
 HemantPatil27/HemantPatil27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
